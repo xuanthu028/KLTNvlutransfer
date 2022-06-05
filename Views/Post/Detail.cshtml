@@ -1,0 +1,116 @@
+﻿
+@{
+    ViewBag.Title = "Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<main class="bg-grey pb-30">
+    @{ var userInfomatiom = (VLUTransfer.Models.User)Session["User"]; }
+    @{ var post = ViewBag.Detail;}
+    @if (ViewBag.message == "1")
+    {
+
+        <div class="toast" data-delay="1000" style="position:fixed; top: 100PX; left: 10PX;z-index: 2000;width: 300px">
+            <script>
+                swal({
+                    title: 'Bạn cần phải đăng nhập',
+                    /* text: 'Redirecting...', */
+                    icon: 'error',
+                    timer: 3000,
+                    buttons: true,
+                    type: 'error'
+                })
+            </script>
+        </div>
+    }
+    @if (ViewBag.message == "2")
+    {
+
+        <div class="toast" data-delay="1000" style="position:fixed; top: 100PX; left: 10PX;z-index: 2000;width: 300px">
+            <script>
+                swal({
+                    title: 'Đăng kí mua thành công',
+                    /* text: 'Redirecting...', */
+                    icon: 'success',
+                    timer: 3000,
+                    buttons: true,
+                    type: 'success'
+                })
+            </script>
+        </div>
+    }
+    @if (ViewBag.message == "3")
+    {
+
+        <div class="toast" data-delay="1000" style="position:fixed; top: 100PX; left: 10PX;z-index: 2000;width: 300px">
+            <script>
+                swal({
+                    title: 'Bạn đã đăng kí mua rồi',
+                    /* text: 'Redirecting...', */
+                    icon: 'error',
+                    timer: 3000,
+                    buttons: true,
+                    type: 'error'
+                })
+            </script>
+        </div>
+    }
+<div class="container single-content">
+    <div class="entry-header entry-header-style-1 mb-50 pt-50">
+        <h1 class="entry-title mb-50 font-weight-900">
+            @post.title
+        </h1>
+        <figure class="image mb-30 m-auto text-center border-radius-10">
+            <img style="width: 90% !important" class="border-radius-10" src="~/Content/images/@post.image" alt="post-title">
+        </figure>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="entry-meta align-items-center meta-2 font-small color-muted">
+                    <p class="mb-5">
+                        <a class="author-avatar" href="#"><img class="img-circle" src="/Content/assets/imgs/authors/author-3.jpg" alt=""></a>
+                        By <a href="/user/post/@post.User.userId/1"><span class="author-name font-weight-bold">@post.User.fullName</span></a>
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-6 text-right d-none d-md-inline">
+                @if (userInfomatiom != null)
+                {
+                    if (userInfomatiom.userId != post.User.userId)
+                    {
+                        <form action="/Post/RegisterPost" method="post">
+                            <input type="hidden" name="postId" value="@post.postId" />
+                            <input type="hidden" name="status" value="0" />
+                            <button type="submit" class="btn button button-contactForm">Đăng kí mua</button>
+                        </form>
+                    }
+                }
+                else
+                {
+                    <form action="/Post/RegisterPost" method="post">
+                        <input type="hidden" name="postId" value="@post.postId" />
+                        <input type="hidden" name="status" value="0" />
+                        <button type="submit" class="btn button button-contactForm">Đăng kí mua</button>
+                    </form>
+                }
+
+            </div>
+        </div>
+
+    </div>
+  
+    <!--end single header-->
+    <!--figure-->
+    <article class="entry-wraper mb-50">
+        <p>Giá tiền : @string.Format("{0:0,0}", post.price) <span>VNĐ</span></p>
+        <p>Ngày đăng : @post.createdAt</p>
+        <p>Mô tả : </p>
+        @Html.Raw(post.description)
+
+        <!--related posts-->
+
+    </article>
+
+</div>
+    <!--container-->
+</main>
+
+

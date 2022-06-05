@@ -1,0 +1,427 @@
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\VLUTransfer.dll.config
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\VLUTransfer.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\VLUTransfer.pdb
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\csc.exe
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\csc.rsp
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\csi.exe
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\csi.rsp
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\System.Console.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\System.Net.Http.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\vbc.exe
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\EntityFramework.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\System.Web.Razor.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\WebGrease.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\EntityFramework.xml
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\System.Web.Razor.xml
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\obj\Debug\VLUTransfer.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\obj\Debug\VLUTransfer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\obj\Debug\VLUTransfer.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\obj\Debug\VLUTransfer.dll
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\obj\Debug\VLUTransfer.pdb
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\obj\Debug\VLUTransfer.Migrations.c.resources
+C:\Users\ADMIN\source\repos\VLUTransfer\VLUTransfer\obj\Debug\VLUTransfer.csproj.GenerateResource.cache
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\VLUTransfer.dll.config
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\VLUTransfer.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\VLUTransfer.pdb
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\csc.exe
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\csc.exe.config
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\csc.rsp
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\csi.exe
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\csi.exe.config
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\csi.rsp
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.Managed.Core.targets
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\System.AppContext.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Collections.Immutable.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Console.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Globalization.Calendars.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\System.IO.Compression.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\System.IO.FileSystem.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Net.Http.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Net.Sockets.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Reflection.Metadata.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\System.ValueTuple.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Xml.XmlDocument.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Xml.XPath.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\vbc.exe
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\vbc.exe.config
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\vbc.rsp
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\VBCSCompiler.exe
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\roslyn\VBCSCompiler.exe.config
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\Antlr3.Runtime.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\EntityFramework.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\EntityFramework.SqlServer.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\Microsoft.Web.Infrastructure.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\Newtonsoft.Json.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\System.Web.Helpers.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\System.Web.Mvc.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\System.Web.Optimization.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\System.Web.Razor.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\System.Web.WebPages.Deployment.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\System.Web.WebPages.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\System.Web.WebPages.Razor.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\WebGrease.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\EntityFramework.xml
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\EntityFramework.SqlServer.xml
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\System.Web.Helpers.xml
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\System.Web.Mvc.xml
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\System.Web.Optimization.xml
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\System.Web.Razor.xml
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\System.Web.WebPages.xml
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\System.Web.WebPages.Deployment.xml
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\System.Web.WebPages.Razor.xml
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\Newtonsoft.Json.xml
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\Antlr3.Runtime.pdb
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\obj\Debug\VLUTransfer.csprojAssemblyReference.cache
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\obj\Debug\VLUTransfer.Migrations.c.resources
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\obj\Debug\VLUTransfer.csproj.GenerateResource.cache
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\obj\Debug\VLUTransfer.csproj.CoreCompileInputs.cache
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\obj\Debug\VLUTransfer.csproj.CopyComplete
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\obj\Debug\VLUTransfer.dll
+D:\.NET MVC\VLUTransferAsp\VLUTransfer\obj\Debug\VLUTransfer.pdb
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\obj\Debug\VLUTransfer.csproj.AssemblyReference.cache
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\obj\Debug\VLUTransfer.Migrations.c.resources
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\obj\Debug\VLUTransfer.csproj.GenerateResource.cache
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\obj\Debug\VLUTransfer.csproj.CoreCompileInputs.cache
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\obj\Debug\VLUTransfer.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\obj\Debug\VLUTransfer.pdb
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\VLUTransfer.dll.config
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\VLUTransfer.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\VLUTransfer.pdb
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\csc.exe
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\csc.exe.config
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\csc.rsp
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\csi.exe
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\csi.exe.config
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\csi.rsp
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\System.AppContext.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Collections.Immutable.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Console.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Globalization.Calendars.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\System.IO.Compression.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\System.IO.FileSystem.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Net.Http.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Net.Sockets.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\System.ValueTuple.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Xml.XPath.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\vbc.exe
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\vbc.exe.config
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\vbc.rsp
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\VBCSCompiler.exe
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\roslyn\VBCSCompiler.exe.config
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\Antlr3.Runtime.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\EntityFramework.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\EntityFramework.SqlServer.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\Microsoft.Web.Infrastructure.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\Newtonsoft.Json.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\System.Web.Helpers.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\System.Web.Mvc.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\System.Web.Optimization.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\System.Web.Razor.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\System.Web.WebPages.Deployment.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\System.Web.WebPages.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\System.Web.WebPages.Razor.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\WebGrease.dll
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\EntityFramework.xml
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\EntityFramework.SqlServer.xml
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\System.Web.Helpers.xml
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\System.Web.Mvc.xml
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\System.Web.Optimization.xml
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\System.Web.Razor.xml
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\System.Web.WebPages.xml
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\System.Web.WebPages.Deployment.xml
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\System.Web.WebPages.Razor.xml
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\Newtonsoft.Json.xml
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\Antlr3.Runtime.pdb
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project Asp.Net\VLUTransferAsp\VLUTransfer\obj\Debug\VLUTransfer.csproj.CopyComplete
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\VLUTransfer.dll.config
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\VLUTransfer.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\VLUTransfer.pdb
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\csc.exe
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\csc.exe.config
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\csc.rsp
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\csi.exe
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\csi.exe.config
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\csi.rsp
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.Managed.Core.targets
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\System.AppContext.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Collections.Immutable.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Console.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Globalization.Calendars.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\System.IO.Compression.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\System.IO.FileSystem.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Net.Http.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Net.Sockets.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Reflection.Metadata.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\System.ValueTuple.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Xml.XmlDocument.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Xml.XPath.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\vbc.exe
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\vbc.exe.config
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\vbc.rsp
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\VBCSCompiler.exe
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\roslyn\VBCSCompiler.exe.config
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\Antlr3.Runtime.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\EntityFramework.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\EntityFramework.SqlServer.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\Microsoft.Web.Infrastructure.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\Newtonsoft.Json.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\System.Web.Helpers.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\System.Web.Mvc.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\System.Web.Optimization.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\System.Web.Razor.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\System.Web.WebPages.Deployment.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\System.Web.WebPages.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\System.Web.WebPages.Razor.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\WebGrease.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\EntityFramework.xml
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\EntityFramework.SqlServer.xml
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\System.Web.Helpers.xml
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\System.Web.Mvc.xml
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\System.Web.Optimization.xml
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\System.Web.Razor.xml
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\System.Web.WebPages.xml
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\System.Web.WebPages.Deployment.xml
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\System.Web.WebPages.Razor.xml
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\Newtonsoft.Json.xml
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\Antlr3.Runtime.pdb
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\obj\Debug\VLUTransfer.csprojAssemblyReference.cache
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\obj\Debug\VLUTransfer.Migrations.c.resources
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\obj\Debug\VLUTransfer.csproj.GenerateResource.cache
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\obj\Debug\VLUTransfer.csproj.CoreCompileInputs.cache
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\obj\Debug\VLUTransfer.csproj.CopyComplete
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\obj\Debug\VLUTransfer.dll
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\obj\Debug\VLUTransfer.pdb
+D:\.NET MVC\VLU\VLUTransferAsp\VLUTransfer\obj\Debug\VLUTransfer.Migrations.updatedb.resources
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\VLUTransfer.dll.config
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\VLUTransfer.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\VLUTransfer.pdb
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\csc.exe
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\csc.exe.config
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\csc.rsp
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\csi.exe
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\csi.exe.config
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\csi.rsp
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\Microsoft.Managed.Core.targets
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\System.AppContext.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\System.Collections.Immutable.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\System.Console.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\System.Globalization.Calendars.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\System.IO.Compression.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\System.IO.FileSystem.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\System.Net.Http.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\System.Net.Sockets.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\System.Reflection.Metadata.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\System.ValueTuple.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\System.Xml.XmlDocument.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\System.Xml.XPath.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\vbc.exe
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\vbc.exe.config
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\vbc.rsp
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\VBCSCompiler.exe
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\roslyn\VBCSCompiler.exe.config
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\Antlr3.Runtime.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\EntityFramework.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\EntityFramework.SqlServer.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\Microsoft.Web.Infrastructure.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\Newtonsoft.Json.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\System.Web.Helpers.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\System.Web.Mvc.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\System.Web.Optimization.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\System.Web.Razor.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\System.Web.WebPages.Deployment.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\System.Web.WebPages.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\System.Web.WebPages.Razor.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\WebGrease.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\EntityFramework.xml
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\EntityFramework.SqlServer.xml
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\System.Web.Helpers.xml
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\System.Web.Mvc.xml
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\System.Web.Optimization.xml
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\System.Web.Razor.xml
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\System.Web.WebPages.xml
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\System.Web.WebPages.Deployment.xml
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\System.Web.WebPages.Razor.xml
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\Newtonsoft.Json.xml
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\Antlr3.Runtime.pdb
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\obj\Debug\VLUTransfer.csproj.AssemblyReference.cache
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\obj\Debug\VLUTransfer.Migrations.c.resources
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\obj\Debug\VLUTransfer.Migrations.updatedb.resources
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\obj\Debug\VLUTransfer.csproj.GenerateResource.cache
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\obj\Debug\VLUTransfer.csproj.CoreCompileInputs.cache
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\obj\Debug\VLUTransfer.csproj.CopyComplete
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\obj\Debug\VLUTransfer.dll
+D:\KhoaLuanTN\Data_VLUtransfer\VLUTransferAsp-main\VLUTransfer\obj\Debug\VLUTransfer.pdb

@@ -1,0 +1,78 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Start Main content -->
+<main>
+    <div class="featured-1">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 align-self-center">
+
+                    <h3 class="mb-20"> Chào mừng đến với VLU Transfer</h3>
+                    <h5 class="text-muted">Diễn đàn thanh lý, tặng đồ cũ sinh viên</h5>
+
+                </div>
+                <div class="col-lg-6 text-right d-none d-lg-block">
+                    <img src="~/Content/assets/imgs/authors/featured.png" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="hot-tags pt-30 pb-30 font-small align-self-center">
+            <div class="widget-header-3">
+                <div class="row align-self-center">
+                    <div class="col-md-4 align-self-center">
+                        <h5 class="widget-title">Danh sách các bài đăng</h5>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="loop-grid mb-30">
+            <div class="row">
+                @foreach (var item1 in ViewBag.posts)
+                {
+                    <article class="col-lg-4 col-md-6 mb-30 wow fadeInUp animated" data-wow-delay="0.2s">
+                        <div class="post-card-1 border-radius-10 hover-up">
+                            <div class="post-thumb thumb-overlay img-hover-slide position-relative" style="background-image: url(/Content/images/@item1.image )">
+                                <a class="img-link" href="/Post/Detail/@item1.postId"></a>
+                                <span class="top-right-icon bg-success"><i class="elegant-icon icon_camera_alt"></i></span>
+                                <ul class="social-share">
+                                    <li><a href="#"><i class="elegant-icon social_share"></i></a></li>
+                                    <li><a class="fb" href="#" title="Share on Facebook" target="_blank"><i class="elegant-icon social_facebook"></i></a></li>
+                                    <li><a class="tw" href="#" target="_blank" title="Tweet now"><i class="elegant-icon social_twitter"></i></a></li>
+                                    <li><a class="pt" href="#" target="_blank" title="Pin it"><i class="elegant-icon social_pinterest"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="post-content p-30">
+
+                                <div class="d-flex post-card-content">
+                                    <h5 class="post-title font-weight-900">
+                                        <a href="/Post/Detail/@item1.postId">@item1.title</a>
+                                    </h5>
+                                    <div class="entry-meta meta-0 font-small">
+                                        <a href="/user/post/@item1.userId/1"><span class="post-cat text-primary">Người đăng : @item1.User.fullName</span></a>
+                                    </div>
+                                    <div class="entry-meta meta-1 float-left font-x-small text-uppercase">
+                                       <span class="post-on">Giá: @string.Format("{0:0,0}", item1.price) <span>VNĐ</span></span>
+                                        <span class="post-on">Ngày đăng: @item1.createdAt</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                }
+
+                <!--bài viết mới nhất-->
+
+
+            </div>
+        </div>
+    </div>
+
+</main>
+

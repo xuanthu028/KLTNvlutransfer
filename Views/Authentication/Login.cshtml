@@ -1,0 +1,79 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<main class="bg-grey pt-80 pb-50">
+    @if (ViewBag.message == "1")
+    {
+
+        <div class="toast" data-delay="1000" style="position:fixed; top: 100PX; left: 10PX;z-index: 2000;width: 300px">
+            <script>
+                swal({
+                    title: 'Bạn cần nhập đầy đủ thông tin',
+                    /* text: 'Redirecting...', */
+                    icon: 'error',
+                    timer: 3000,
+                    buttons: true,
+                    type: 'success'
+                })
+            </script>
+        </div>
+    }
+    @if (ViewBag.message == "2")
+    {
+
+        <div class="toast" data-delay="1000" style="position:fixed; top: 100PX; left: 10PX;z-index: 2000;width: 300px">
+            <script>
+                swal({
+                    title: 'Tài khoản chưa được phê duyệt từ admin',
+                    /* text: 'Redirecting...', */
+                    icon: 'error',
+                    timer: 3000,
+                    buttons: true,
+                    type: 'success'
+                })
+            </script>
+        </div>
+    }
+    @if (ViewBag.message == "3")
+    {
+
+        <div class="toast" data-delay="1000" style="position:fixed; top: 100PX; left: 10PX;z-index: 2000;width: 300px">
+            <script>
+                swal({
+                    title: 'Tài khoản hoặc mật khẩu không chính xác',
+                    /* text: 'Redirecting...', */
+                    icon: 'error',
+                    timer: 3000,
+                    buttons: true,
+                    type: 'success'
+                })
+            </script>
+        </div>
+    }
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-xl-6 col-md-10">
+                <div class="login_wrap widget-taber-content p-30 bg-white border-radius-10">
+                    <div class="padding_eight_all bg-white">
+                        <div class="heading_s1 text-center">
+                            <h3 class="mb-30 font-weight-900">Đăng nhập</h3>
+                        </div>
+                        <form action="/Authentication/Login" method="post">
+                            <div class="form-group">
+                                <input type="text" required="" class="form-control" name="email" placeholder="Your Email">
+                            </div>
+                            <div class="form-group">
+                                <input class="form-control" required="" type="password" name="password" placeholder="Password">
+                            </div>
+                            <div class="form-group">
+                                <button type="submit" class="button button-contactForm btn-block">Đăng nhập</button>
+                            </div>
+                        </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>

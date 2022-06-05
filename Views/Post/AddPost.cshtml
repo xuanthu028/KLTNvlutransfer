@@ -1,0 +1,77 @@
+﻿
+@{
+    ViewBag.Title = "AddPost";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<main class="bg-grey pt-80 pb-50">
+    <div class="container">
+        @if (ViewBag.message == "1")
+        {
+
+            <div class="toast" data-delay="1000" style="position:fixed; top: 100PX; left: 10PX;z-index: 2000;width: 300px">
+                <script>
+                    swal({
+                        title: 'Đăng bài thành công',
+                        /* text: 'Redirecting...', */
+                        icon: 'success',
+                        timer: 3000,
+                        buttons: true,
+                        type: 'success'
+                    })
+                </script>
+            </div>
+        }
+        <div class="row justify-content-center">
+            <div class="container single-content">
+                <div class="entry-wraper">
+                    <div class="heading_s1 text-center">
+                        <h3 class="mb-30 font-weight-900">Đăng bài viết</h3>
+                    </div>
+                    <span style="color:red;">*Chỉ cho phép đăng 1 sản phẩm cho 1 lần đăng !</span>
+                    <hr class="wp-block-separator is-style-wide">
+
+                    <form class="form-contact comment_form" enctype="multipart/form-data" action="/Post/PostAdd" method="post" id="commentForm">
+
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="form-group">
+                                    <input class="form-control" name="title" id="website" type="text" placeholder="Tiêu đề" required>
+                                </div>
+                            </div>
+
+                            <div class="col-12">
+                                <div class="form-group">
+                                    <input class="form-control" name="price" id="website" type="text" placeholder="Giá" required>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="form-group">
+                                    <input class="" name="file" id="website" type="file" placeholder="Tiêu đề" required>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="form-group">
+                                    <textarea class="form-control w-100" name="description" id="comment" cols="30" rows="9" >Mô tả chi tiết :<br /> Tình trạng sử dụng :<br />
+ 
+					                                                Kích cỡ (nếu có) :<br />Nhãn hiệu (nếu có) : </textarea>
+                                </div>
+                                @*<div class="form-group">
+                                    <textarea class="form-control w-100" name="description" id="website" cols="30" rows="9" placeholder="Password"></textarea>
+                                </div>*@
+
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <button type="submit" class="button button-contactForm btn-block">Đăng bài</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+<script>
+    CKEDITOR.replace("comment");
+</script>
+
